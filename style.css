@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
